@@ -1,31 +1,81 @@
-<h1 align="center">Hi 👋, I'm Supriya Hatele</h1>
-<h3 align="center">A passionate Full Stack developer from India.</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<div id="header" >
+  <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supriyahatele&label=Profile%20views&color=0e75b6&style=flat" alt="supriyahatele" /> </p>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/supriya-hatele-b0696b1bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:niyahatele70@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
+  </a>
+  
+</div>
+<img src="https://komarev.com/ghpvc/?username=supriyahatele&style=flat-square&color=blue" alt=""/>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> </p>
+<div>
+  <h1>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Supriya Hatele</h1>
+</div>
+<h3 align="justify">I am a detailed-oriented and responsible Full Stack Web Developer specializing in MERN ( HTML,CSS ,MongoDB, Express.js, React, Node.js) stack with a get-it-done, on-time, and high-quality product spirit.</h3>
+<br>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## Fun Fact 🎈:
 
-- 🌱 I’m currently learning **Full Stack Web Development at Masai School Bangolore.**
+<!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
 
-- 💬 Ask me about **MERN Stack**
-- - 👨‍💻 One of my projects are available at [https://wizard-bootstrap-reliance-digital.netlify.app/](https://wizard-bootstrap-reliance-digital.netlify.app/)
+<img align="left" height="150" src="https://github.com/krunalbhandekar/krunalbhandekar/blob/main/assets/gif.png" alt="octocat" style="margin-right: 2rem;"/>
 
-- 📫 How to reach me **niyahatele70@gmail.com**
+• 🔭 I’m currently learning <b>Full-Stack Web Development At Masai School </b> <br/>
+• 👯 I’m looking to collaborate on cool project.<br/>
+• 💬 Ask me about <b>MERN</b>.<br/>
+• 📫 Reach me out <a href="https://www.linkedin.com/in/supriya-hatele-b0696b1bb/"><b>Supriya Hatele</b></a><br/>
+•⚡ Fun Fact <b>I love to read  Fictional Novels</b>.<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/supriya-hatele-b0696b1bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/supriya-hatele-b0696b1bb/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/7066_supriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="7066_supriya" height="30" width="40" /></a>
+</span>
+<br>
+<br>
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=supriyahatele&label=Profile%20views&color=0e75b6&style=flat" alt="supriyaHatele" /> </p>
+
+## 🌐 Let's Connect :
+
+<a  href="https://www.linkedin.com/in/supriya-hatele-b0696b1bb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
+</a>
+<a href="mailto:niyahatele70@gmail.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
+</a>
+<a href="" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="krunal" />
+</a>
+
+</a>
+<br>
+<br>
+<br>
+
+# 📊 GitHub Stats :
+
+<p >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=supriyahatele&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="supriya" height="139"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriyahatele&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="supriya" height="139" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supriyahatele&theme=dark" alt="supriya" /></p>
+<br>
+<br>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supriyahatele&show_icons=true&locale=en&layout=compact" alt="supriyahatele" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supriyahatele&show_icons=true&locale=en" alt="supriyahatele" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supriyahatele&" alt="supriyahatele" /></p>
+### Languages and Tools:
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="tailwind"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+_______________
