@@ -16,7 +16,7 @@
 <div>
   <h1>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Supriya Hatele</h1>
 </div>
-<h3 align="justify">I am a detailed-oriented and responsible Full Stack Web Developer specializing in MERN ( HTML,CSS ,MongoDB, Express.js, React, Node.js) stack with a get-it-done, on-time, and high-quality product spirit.</h3>
+<h3 align="justify">I am a detailed-oriented and responsible Full Stack Web Developer specializing in MERN ( HTML,CSS, javaScript,MongoDB, Express.js, React, Node.js) stack with a get-it-done, on-time, and high-quality product spirit.</h3>
 <br>
 
 ## Fun Fact 🎈:
