@@ -29,6 +29,7 @@ With 1,200 hours of coding experience, I am a self-motivated and ambitious devel
 - 📫 Reach me out <a href="https://www.linkedin.com/in/supriya-hatele-b0696b1bb/"><b>Supriya Hatele</b></a><br/>
 
 - 📄 Know about my experiences <a href="https://supriyahatele.github.io"> portfolio</a>
+- 📄 Know about me <a href="https://drive.google.com/file/d/1Hj_9UdDJc1BHIQDrr9Pkl0zA6FlOlrqB/view?usp=drive_link"> Resume</a>
 
 ⚡ Fun Fact <b>I love to read  Fictional Novels</b><br/>
 
@@ -48,8 +49,8 @@ With 1,200 hours of coding experience, I am a self-motivated and ambitious devel
 <a href="mailto:niyahatele70@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
-<a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="krunal" />
+<a href="https://supriyahatele.github.io" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="supriya" />
 </a>
 
 </a>
