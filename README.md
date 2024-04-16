@@ -10,17 +10,30 @@ With 1,200 hours of coding experience, I am a self-motivated and ambitious devel
 <br>
 <P>Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting!</P>
 
-## Fun Fact 🎈:
+
 
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
 
 <!--<img align="left" height="150" src="https://github.com/krunalbhandekar/krunalbhandekar/blob/main/assets/gif.png" alt="octocat" style="margin-right: 2rem;"/> -->
 
-• 🔭 I’m currently learning <b>Full-Stack Web Development At Masai School </b> <br/>
-• 👯 I’m looking to collaborate on FullStack projects.<br/>
-• 💬 Ask me about <b>MERN</b>.<br/>
-• 📫 Reach me out <a href="https://www.linkedin.com/in/supriya-hatele-b0696b1bb/"><b>Supriya Hatele</b></a><br/>
-•⚡ Fun Fact <b>I love to read  Fictional Novels</b>.<br/>
+- 🔭 I recently worked on [Atlassian](https://atlasian-clone.netlify.app/)
+
+- 🌱 I’m currently learning **Full Stack Web Development**
+
+- 👯 I’m looking to collaborate on **FullStack Projects**
+
+- 👨‍💻 All of my projects are available at <a href="https://github.com/supriyahatele?tab=repositories"> Github</a>
+
+- 💬 Ask me about **MERN Stack**
+
+- 📫 How to reach me **niyahatele70@gmail.com**
+
+- 📫 Reach me out <a href="https://www.linkedin.com/in/supriya-hatele-b0696b1bb/"><b>Supriya Hatele</b></a><br/>
+
+- 📄 Know about my experiences <a href="https://supriyahatele.github.io"> portfolio</a>
+
+-⚡ Fun Fact <b>I love to read  Fictional Novels</b>.<br/>
+
 
 </span>
 <br>
