@@ -29,12 +29,9 @@ With 1,200 hours of coding experience, I am a self-motivated and ambitious devel
 - 📄 Know about me <a href="https://drive.google.com/file/d/1Hj_9UdDJc1BHIQDrr9Pkl0zA6FlOlrqB/view?usp=drive_link"> Resume</a>
 
 ⚡ Fun Fact <b>I love to read  Fictional Novels</b><br/>
-
-
 </span>
 <br>
-<br>
-<br>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supriyahatele&label=Profile%20views&color=0e75b6&style=flat" alt="supriyaHatele" /> </p>
 
@@ -53,9 +50,7 @@ With 1,200 hours of coding experience, I am a self-motivated and ambitious devel
 </a>
 <br>
 <br>
-<br>
-
-# 📊 GitHub Stats :
+### 📊 GitHub Stats :
 
 <p >
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=supriyahatele&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="supriya" height="139"/>
