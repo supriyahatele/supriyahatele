@@ -26,13 +26,11 @@ With 1,200 hours of coding experience, I am a self-motivated and ambitious devel
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **niyahatele70@gmail.com**
-
 - 📫 Reach me out <a href="https://www.linkedin.com/in/supriya-hatele-b0696b1bb/"><b>Supriya Hatele</b></a><br/>
 
 - 📄 Know about my experiences <a href="https://supriyahatele.github.io"> portfolio</a>
 
--⚡ Fun Fact <b>I love to read  Fictional Novels</b>.<br/>
+⚡ Fun Fact <b>I love to read  Fictional Novels</b><br/>
 
 
 </span>
