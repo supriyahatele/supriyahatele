@@ -17,7 +17,7 @@ With 1,200 hours of coding experience, I am a self-motivated and ambitious devel
 <!--<img align="left" height="150" src="https://github.com/krunalbhandekar/krunalbhandekar/blob/main/assets/gif.png" alt="octocat" style="margin-right: 2rem;"/> -->
 
 • 🔭 I’m currently learning <b>Full-Stack Web Development At Masai School </b> <br/>
-• 👯 I’m looking to collaborate on cool project.<br/>
+• 👯 I’m looking to collaborate on FullStack projects.<br/>
 • 💬 Ask me about <b>MERN</b>.<br/>
 • 📫 Reach me out <a href="https://www.linkedin.com/in/supriya-hatele-b0696b1bb/"><b>Supriya Hatele</b></a><br/>
 •⚡ Fun Fact <b>I love to read  Fictional Novels</b>.<br/>
