@@ -1,23 +1,14 @@
-<div id="header" >
-  <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300"/>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/supriya-hatele-b0696b1bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:niyahatele70@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
-  </a>
-  
-</div>
-<img src="https://komarev.com/ghpvc/?username=supriyahatele&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div>
   <h1>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Supriya Hatele</h1>
 </div>
-<h3 align="justify">I am a detailed-oriented and responsible Full Stack Web Developer specializing in MERN ( HTML,CSS, javaScript,MongoDB, Express.js, React, Node.js) stack with a get-it-done, on-time, and high-quality product spirit.</h3>
+<h3 align="justify">Full Stack Web Developer | MERN Stack </h3>
+<p align="justify">
+With 1,200 hours of coding experience, I am a self-motivated and ambitious developer proficient in the MERN stack. I have successfully solved over 500 data structures and algorithms (DSA) problems, showcasing strong problem-solving skills. Experienced in both solo and team-based projects, I am committed to continuous learning and excellence in web development. Eager to contribute as a dynamic and effective team member in a forward-thinking tech company.</p>
 <br>
+<P>Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting!</P>
 
 ## Fun Fact 🎈:
 
