@@ -37,7 +37,7 @@ With 1,200 hours of coding experience, I am a self-motivated and ambitious devel
 
 ## 🌐 Let's Connect :
 
-<a  href="https://www.linkedin.com/in/supriya-hatele-b0696b1bb/" target="_blank">
+<a  href="https://www.linkedin.com/in/supriyahatele70/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
 <a href="mailto:niyahatele70@gmail.com" target="_blank"> 
