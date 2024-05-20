@@ -26,7 +26,7 @@ With 1,200 hours of coding experience, I am a self-motivated and ambitious devel
 
 - 💬 Ask me about **MERN Stack**
 
-- 📄 Know about me <a href="https://drive.google.com/file/d/1uvIeeZXwY5JsuLMc9SOQTxL0b6exRnIG/view?usp=sharing"> Resume</a>
+- 📄 Know about me <a href="https://drive.google.com/file/d/1IKL0oOJSi5aJAbx0y-4ODsZZAAupihZa/view?usp=sharing"> Resume</a>
 
 ⚡ Fun Fact <b>I love to read  Fictional Novels</b><br/>
 </span>
