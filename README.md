@@ -16,7 +16,7 @@ With 1,200 hours of coding experience, I am a self-motivated and ambitious devel
 
 <!--<img align="left" height="150" src="https://github.com/krunalbhandekar/krunalbhandekar/blob/main/assets/gif.png" alt="octocat" style="margin-right: 2rem;"/> -->
 
-- 🔭 I recently worked on [Atlassian](https://atlasian-clone.netlify.app/)
+- 🔭 I recently worked on [Educonnect]( https://edu-connect-kappa.vercel.app/)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
