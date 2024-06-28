@@ -6,7 +6,7 @@
 </div>
 <h3 align="justify">Full Stack Web Developer | MERN Stack </h3>
 <p align="justify">
-With 1,200 hours of coding experience, I am a self-motivated and ambitious developer proficient in the MERN stack. I have successfully solved over 500 data structures and algorithms (DSA) problems, showcasing strong problem-solving skills. Experienced in both solo and team-based projects, I am committed to continuous learning and excellence in web development. Eager to contribute as a dynamic and effective team member in a forward-thinking tech company.</p>
+With 1,200 hours of coding experience, I am a self-motivated and ambitious developer proficient in the MERN stack. I have successfully solved over 500 data structures and algorithms (DSA) problems, showcasing strong problem-solving skills. Experienced in team-based projects, I am committed to continuous learning and excellence in web development. Eager to contribute as a dynamic and effective team member in a forward-thinking tech company.</p>
 <br>
 <P>Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting!</P>
 
