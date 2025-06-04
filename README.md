@@ -6,7 +6,8 @@
 </div>
 <h3 align="justify">Full Stack Web Developer | MERN Stack </h3>
 <p align="justify">
-With 1,200 hours of coding experience, I am a self-motivated and ambitious developer proficient in the MERN stack. I have successfully solved over 500 data structures and algorithms (DSA) problems, showcasing strong problem-solving skills. Experienced in team-based projects, I am committed to continuous learning and excellence in web development. Eager to contribute as a dynamic and effective team member in a forward-thinking tech company.</p>
+Hi, I'm Supriya — a passionate Full-Stack Web Developer with hands-on experience in building scalable, secure, and performance-driven web applications using the MERN stack. With over 1,200 hours of coding practice and 500+ solved DSA problems, I bring strong problem-solving abilities and a deep understanding of modern web technologies. I’ve implemented real-world solutions like university exam portals and AI-powered platforms, integrating secure authentication (Keycloak) for 75,000+ users. I thrive in collaborative environments, adapt quickly to feedback, and am always eager to learn and innovate. I'm actively seeking challenging opportunities where I can contribute meaningful solutions and grow as a developer.
+</p>
 <br>
 <P>Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting!</P>
 
@@ -16,11 +17,7 @@ With 1,200 hours of coding experience, I am a self-motivated and ambitious devel
 
 <!--<img align="left" height="150" src="https://github.com/krunalbhandekar/krunalbhandekar/blob/main/assets/gif.png" alt="octocat" style="margin-right: 2rem;"/> -->
 
-- 🔭 I Currently working at Edulab.
-
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 👯 I’m looking to collaborate on **FullStack Projects**
+- 🔭  I’m Currently working at Edulab as Junior Full-Stack web Developer.
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/supriyahatele?tab=repositories"> Github</a>
 
